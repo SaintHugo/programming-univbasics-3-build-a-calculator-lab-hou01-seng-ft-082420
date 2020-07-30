@@ -24,7 +24,7 @@ end
 
 def modulo(num1, num2)
   result = num1 / num2
-  puts result
+  puts result %
   return result
 end
 
